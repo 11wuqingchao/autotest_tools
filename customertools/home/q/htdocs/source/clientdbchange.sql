@@ -1,0 +1,1 @@
+ALTER TABLE policy MODIFY friendlyId VARCHAR(24) NOT NULL;
